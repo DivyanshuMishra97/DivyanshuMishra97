@@ -26,9 +26,7 @@ GitHub Profile README
     </a>
     <a href="https://github.com/DivyanshuMishra97">
       <img src="https://img.shields.io/badge/GitHub-DivyanshuMishra97-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=DivyanshuMishra97&style=for-the-badge&color=0e75b6" />
-  </p>
+   
 
 </div>
 
@@ -116,15 +114,6 @@ GitHub Profile README
 - Analytics Engineering fundamentals (clean modeling + metric layers)
 - Building portfolio projects with **reproducible pipelines + dashboards**
 
----
-
-## 📊 GitHub Stats (Optional)
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DivyanshuMishra97&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuMishra97&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 ## 🤝 Let’s Connect
 - LinkedIn: https://linkedin.com/in/divmishra97  
