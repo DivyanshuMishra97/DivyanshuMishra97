@@ -1,3 +1,10 @@
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Divyanshu%20Mishra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20BI%20Analytics&descAlignY=55&descSize=18"
+    alt="banner"
+  />
+</div>
+
 <!--
 GitHub Profile README
 1) Create a NEW repo named EXACTLY: DivyanshuMishra97
